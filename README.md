@@ -1,5 +1,27 @@
 # ![Banner](https://i.imgur.com/Eq8n6te.gif)
 
+## 🧩 Knowledge Level (% Mastery)
+
+<div align="center">
+
+| Tecnología              | Dominio                           |
+| ----------------------- | --------------------------------- |
+| **Python** 🐍           | ![](https://geps.dev/progress/85) |
+| **JavaScript** 🟨       | ![](https://geps.dev/progress/80) |
+| **C#** 💠               | ![](https://geps.dev/progress/75) |
+| **.NET** 🌐             | ![](https://geps.dev/progress/78) |
+| **PostgreSQL** 🐘       | ![](https://geps.dev/progress/82) |
+| **MySQL** 🐬            | ![](https://geps.dev/progress/80) |
+| **SQL (Advanced)** 🗄️  | ![](https://geps.dev/progress/88) |
+| **HTML5** 🌐            | ![](https://geps.dev/progress/90) |
+| **CSS3** 🎨             | ![](https://geps.dev/progress/85) |
+| **TailwindCSS** ⚡       | ![](https://geps.dev/progress/80) |
+| **N8N Automation** 🔄   | ![](https://geps.dev/progress/70) |
+| **Docker** 🐳           | ![](https://geps.dev/progress/65) |
+| **Git & Versioning** 🔧 | ![](https://geps.dev/progress/75) |
+
+</div>
+
 # 👋 **Hi, I'm Héctor Andrés Mejía Samoret**
 
 <div align="center">
