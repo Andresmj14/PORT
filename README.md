@@ -32,7 +32,7 @@ My focus is on creating **scalable, maintainable, and high-performance** applica
 ### ⚙️ **Automation & DevOps**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" />
-  <img height="48" src="https://n8n.io/static/favicons/apple-touch-icon.png" />
+  <img height="48" src="https://cdn.raiolanetworks.com/blog/wp-content/uploads/n8n.png" />
 </p>
 
 ---
