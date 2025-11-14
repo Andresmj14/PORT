@@ -1,5 +1,5 @@
 # 🌌 **Héctor Andrés Mejía – Software Developer**  
-![Banner](https://i.imgur.com/2s7YdRk.png)
+
 
 <p align="center">
   <em>Crafting modern software with clean architecture, automation flows, and scalable backend solutions.</em>
@@ -32,7 +32,7 @@ My focus is on creating **scalable, maintainable, and high-performance** applica
 ### ⚙️ **Automation & DevOps**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" />
-  <img height="48" src="https://n8n.io/static/favicons/apple-touch-icon.png" />
+  <img height="48" src="[https://n8n.io/static/favicons/apple-touch-icon.png](https://cdn.raiolanetworks.com/blog/wp-content/uploads/n8n.png)" />
 </p>
 
 ---
